@@ -15,7 +15,9 @@ Waveguide stands MTI/NVIS
 VSWR meter MTI VS 501/NVIS
 Cathode Ray Oscilloscope Scientech -801C
 Experimental Setup:
-<img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/8cccab6a-31d0-4a0a-8878-ebf8856c7a5a" />
+
+<img width="910" height="382" alt="image" src="https://github.com/user-attachments/assets/c318a12d-4bef-4f4f-a7e9-75707dcf0464" />
+
 <img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/6fca12ec-ba4d-4ba7-a121-d52f49f357ac" />
 
 ## THEORY:
