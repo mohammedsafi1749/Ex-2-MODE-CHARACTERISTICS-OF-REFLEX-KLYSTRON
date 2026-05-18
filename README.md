@@ -76,10 +76,9 @@ Don’t increase the repeller voltage more than -70V (i.e.) it should be between
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/bcb2bbe3-a5ce-40fa-b749-4f07ae74d582" />
 
-
 ## GRAPH:
 
-
+<img width="973" height="1280" alt="image" src="https://github.com/user-attachments/assets/2ed743a3-45bb-49cf-882c-5443514138e2" />
 
 ## RESULT:
 Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
