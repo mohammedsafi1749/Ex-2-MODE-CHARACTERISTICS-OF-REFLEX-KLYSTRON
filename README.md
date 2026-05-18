@@ -74,7 +74,7 @@ If the main supply failed in the middle of the experiment, come to 1st condition
 Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 ## TABULATION:
 
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/bcb2bbe3-a5ce-40fa-b749-4f07ae74d582" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/bcb2bbe3-a5ce-40fa-b749-4f07ae74d582" />
 
 
 ## GRAPH:
