@@ -18,7 +18,7 @@ Experimental Setup:
 
 <img width="910" height="382" alt="image" src="https://github.com/user-attachments/assets/c318a12d-4bef-4f4f-a7e9-75707dcf0464" />
 
-<img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/6fca12ec-ba4d-4ba7-a121-d52f49f357ac" />
+<img width="910" height="382" alt="image" src="https://github.com/user-attachments/assets/6fca12ec-ba4d-4ba7-a121-d52f49f357ac" />
 
 ## THEORY:
 
